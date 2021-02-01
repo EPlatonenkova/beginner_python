@@ -1,5 +1,5 @@
-a=float(input())
-b=float(input())
+a=float(input("Введите число:"))
+b=float(input("Введите число:"))
 n=1
 print(f'{n}-й день: {a}')
 
