@@ -14,11 +14,3 @@ with open("file_6.txt", encoding='utf-8') as file:
 print(dict)
 
 
-# dict = {}
-#
-# for row in f.readlines():
-#     subj = row.split()
-#     task = subj[0]
-#     count = int(subj[1:])
-#     dict[task] = count
-# print(dict)
