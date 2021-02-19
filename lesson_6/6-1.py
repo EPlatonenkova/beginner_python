@@ -19,6 +19,5 @@ class TrafficLight:
             count += 1
 
 
-# TrafficLight.running()
 tl = TrafficLight()
 tl.running()
